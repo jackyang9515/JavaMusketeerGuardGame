@@ -1,0 +1,6 @@
+Primary Color: #29447F
+Secondary Color: #75FDFF
+Text Color: #FFFFFF
+Font: Franklin Gothic Demi
+Relative Font Size: 0.35
+Relative Button Radius: 0.15

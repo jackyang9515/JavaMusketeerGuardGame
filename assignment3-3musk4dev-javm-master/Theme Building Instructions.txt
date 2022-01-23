@@ -1,0 +1,16 @@
+Creating a theme file:
+
+At the "themes" folder, create a txt file.
+
+Do NOT overwrite "__DO_NOT_RENAME.txt"
+
+Each theme attribute is initially set to default, see the default theme for details.
+
+Tags to change attributes:
+
+Primary Color: #xxxxxx
+Secondary Color: #xxxxxx
+Text Color: #xxxxxx
+Font: <<fontName>>
+Relative Font Size: <<Relative font size as a double>>
+Relative Button Radius: <<Relative button radius as a double>>

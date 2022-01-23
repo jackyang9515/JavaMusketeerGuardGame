@@ -1,0 +1,6 @@
+Primary Color: #FA7D00
+Secondary Color: #FFFFFF
+Text Color: #FFFFFF
+Font: Stencil
+Relative Font Size: 0.3
+Relative Button Radius: 0

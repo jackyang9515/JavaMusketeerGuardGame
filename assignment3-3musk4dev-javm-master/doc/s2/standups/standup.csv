@@ -1,0 +1,13 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+2-Dec,2,1,Marko,Refactored MovesHistory to store MoveTurn (has turn details including the move executed) as well as structure for the visualizable turns list,Continue to implement the turn visualizer into the game,1-2 days,Waiting for the GUI of the main board scene to be completed in order to attach my turnsView scene next to the main board scene.
+3-Dec,2,2,Aedas,Added resizable component reltableview,game integration,1-2 days,no
+3-Dec,2,3,Aedas,Created game scene building,theme management,1-2 days,no
+4-Dec,2,4,Aedas,Created additional themes and modified theme loading mechanisms to allow creation of new themes externally,game scene building,Completed,No
+4-Dec,2,5,Marko,Reviewed the GUI code and tested the currently implemented functions ,Implement turn visualizer into the GUI,1 day,None
+5-Dec,2,6,Marko,Completely implemented Turn Visualizer (integrating turns scene to be be a tableview that has an observablelist which updates after every move),Wrap up the project,Within today,None
+5-Dec,2,7,Jack,SaveButton,The update of win label,Finished,N/A
+5-Dec,2,8,Jack,The win label,paperwork,Finished,N/A
+5-Dec,2,9,Jack,paperwork,we are done with the assignment!,N/A,N/A
+4-Dec,2,10,Vicky,Created BuildBoardPanel and BuildBoardScene with multiple buttons, I will make the buttons works, before due date, no
+5-Dec,2,11,Vicky, Added more buttons to buildboard and created board to view and load and save, I will make it so that user can edit the board, before due date, no
+5-Dec,2,12,Vicky, finished the whole buildboardpanel and scene user can now make their own board and play it, tonight, no, no

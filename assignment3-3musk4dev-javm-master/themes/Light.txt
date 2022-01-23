@@ -1,0 +1,2 @@
+Primary Color: #FFFFFF
+Secondary Color: #7F7F7F

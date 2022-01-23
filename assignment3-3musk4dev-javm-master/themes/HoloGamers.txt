@@ -1,0 +1,6 @@
+Primary Color: #7AFFF8
+Secondary Color: #FFFFFF
+Text Color: #FFBEB3
+Font: Haettenschweiler
+Relative Font Size: 0.4
+Relative Button Radius: 0.9

@@ -1,0 +1,3 @@
+Secondary Color: #FFE347
+Text Color: #FFE347
+Font: Bauhaus 93

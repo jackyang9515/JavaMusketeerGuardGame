@@ -1,0 +1,13 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+25-Nov,1,1,Marko,Implemented User Story 1.1 (undo & redo functionality) completely.,Implementing the command design pattern on Moves.,Completed.,The next step of the undo & redo functionality is to implement it to the GUI that has yet to be done.
+26-Nov,1,2,Marko,Implemented User Story 1.7 (moves command) completely.,Implementing board customization options onto the game (User Story 1.6),Already completed the current task at hand.,None
+26-Nov,1,1,Jack,This is my first stand up.,Implement the cellBuilder class.,Within 2 days.,The possible merging conflict.
+27-Nov,1,2,Vicky,This is my first stand up.,Implement override in Files,Tonight,Nothing comes to mind yet
+28-Nov,1,1,Aedas,Implemented User Story 1.5 (Resizable) completely (for windows 10 OS),Implement more resizable components,Next mid-week,Nothing comes to mind yet
+28-Nov,1,2,Aedas,Implemented User Story 1.4 (Scene management) partially,Design the GUI part of the game,Next mid-week,"The model of the game, and ideas for designing the layout of the scenes"
+28-Nov,1,3,Aedas,Implemented Themes functionality (not in stories),Design a loader class with I/O for theme saving and enhancing theme customizability,Within 3-4 days,Nothing comes to mind yet
+28-Nov,1,2,Jack,CellBuilder class construction,Utilize the CellBuilder class in board,Within 1-2 days,Not yet
+28-Nov,1,3,Jack,CellBuilder usage,Fix the bugs appeared along with it,Hard to predict,An empty board is being constructed whenever ThreeMusketeers is run
+28-Nov,1,2,Vicky,Implemented an Abstract class for Generating ingame board, I will create the actual code for this class, within 3-4 days, since im working with model someone needs to do the GUI too
+28-Nov,1,3,Vicky,Fix merge conflic and finalize documentation,continue with userstory 1.6,within 3-4days, still need GUI
+29-Nov,1,3,Marko,Review all documentation and ensured the content was up-to-date,Implement the turn counter into the GUI upon playing a game.,in the next 2 days,Nothing at the moment.

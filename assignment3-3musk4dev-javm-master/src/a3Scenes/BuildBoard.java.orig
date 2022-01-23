@@ -1,0 +1,31 @@
+package a3Scenes;
+
+import a3Panels.BuildBoardPanel;
+import a3Panels.GamePanel;
+import a3Resizables.RelButton;
+import a3Resizables.RelGroup;
+import javafx.scene.input.MouseEvent;
+
+public class BuildBoard extends AppScene{
+	@Override
+	protected void buildScene() {
+		// TODO Auto-generated method stub
+		
+		BuildBoardPanel panel = new BuildBoardPanel();
+		
+		RelButton HomeButton = new RelButton("Home", false);
+		HomeButton.setRelXYWH(0.025, 0.025, 0.25, 0.0875);
+		HomeButton.addEventHandler(MouseEvent.MOUSE_CLICKED, panel);
+		
+		RelButton SaveButton = new RelButton("Save Board", false);
+		SaveButton.setRelXYWH(0.45, 0.9, 0.25, 0.0875);
+		SaveButton.addEventHandler(MouseEvent.MOUSE_CLICKED, panel);
+		
+		RelButton ClearButton = new RelButton("Clear Board", false);
+		ClearButton.setRelXYWH(0.75, 0.025, 0.25, 0.0875);
+		ClearButton.addEventHandler(MouseEvent.MOUSE_CLICKED, panel);
+		
+		((RelGroup) this.getRoot()).getChildren().addAll(HomeButton, SaveButton, ClearButton);
+	}
+
+}
